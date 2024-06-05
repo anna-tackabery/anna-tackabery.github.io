@@ -4,15 +4,19 @@ image: profile_pic.jpeg
 toc: false
 about: 
    template: jolla
-   image-shape: round
+   image-shape: rounded
    image-width: 20em
    links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/annatackabery
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/anna-tackabery
-    - text: Email
+    - icon: envelope
+      text: Email
       href: mailto:atackabery@ucsb.edu
 
 ---
 
+#### Welcome!

@@ -6,18 +6,30 @@ website:
   title: "Anna Tackabery"
   navbar:
     background: primary
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
-      - education.qmd
-
+      - href: education.qmd
+        text: Education
+      - href: file/path/to/Anna_Tackabery_Resume.pdf
+        text: Resume
+        target: _blank
+      - icon: instagram
+        text: UCSB Zero Waste
+        href: https://www.instagram.com/ucsbzerowaste?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr
+        target: _blank
+  page-footer:
+    background: light
+    left: Copyright 2024, Anna Tackabery
+    right: This website is built [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/anna-tackabery/anna-tackabery.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}.
+        
 # supplying a light ("minty") and dark ("slate") theme to toggle between
 format:
   html:
     theme: 
-      light: yeti
-      dark: darkly
+      - yeti
+      - styles.scss #link scss to website
     css: styles.css
     toc: true
     page-layout: full
