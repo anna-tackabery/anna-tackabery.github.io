@@ -3,7 +3,7 @@ title: "anna-tackabery.github.io"
 I agree 
 ---
 
-This is a Quarto website.
+This is a Quarto website
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
