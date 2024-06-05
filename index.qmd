@@ -1,11 +1,18 @@
 ---
-title: "anna-tackabery.github.io"
+title: "Anna Tackabery"
+image: profile_pic.jpeg
+toc: false
+about: 
+   template: jolla
+   image-shape: round
+   image-width: 20em
+   links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/annatackabery
+    - text: GitHub
+      href: https://github.com/anna-tackabery
+    - text: Email
+      href: mailto:atackabery@ucsb.edu
+
 ---
 
-This is a Quarto website
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
