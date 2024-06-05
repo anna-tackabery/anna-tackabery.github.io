@@ -12,6 +12,8 @@ website:
       - about.qmd
       - href: education.qmd
         text: Education
+      - href: internships.qmd
+        text: Internships
       - href: file/path/to/Anna_Tackabery_Resume.pdf
         text: Resume
         target: _blank

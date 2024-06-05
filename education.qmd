@@ -1,3 +1,21 @@
 ---
 title: "Education"
+image: UCSB_seal.gif
+about:
+  template: solana
+  image-shape: rectangle
+  image-width: 20em
 ---
+
+### Relevent Courses
+Here are a few courses I've completed that I feel most impacted my learning at UCSB.
+
+
+
+### Course Work
+
+### LEED Green Associate
+
+
+
+

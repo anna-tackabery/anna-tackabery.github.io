@@ -1,10 +1,10 @@
 ---
 title: "About"
-image: 
+image: grad_pic.JPG
 about:
   template: solana
   image-shape: rectangle
-   image-width: 20em
+  image-width: 20em
 ---
 
 ## Get to Know Me!
