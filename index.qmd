@@ -19,4 +19,10 @@ about:
 
 ---
 
-#### Welcome!
+## Welcome!
+Thank you for coming to my page!
+
+### Education
+
+University of California, Santa Barbara | Santa Barbara, CA
+B.S. in Environmental Studies | October 2020 - June 2024

@@ -7,14 +7,29 @@ about:
   image-width: 20em
 ---
 
-### Relevent Courses
+## Relevent Courses
 Here are a few courses I've completed that I feel most impacted my learning at UCSB.
 
+### Green Building and LEEDLab
+
+Green building is a course offered that covers the major topics of Leadership in Energy and Environmental Design (LEED) and LEED Certification processes. In this course we completed a Case Study of a building on campus to see how we could improve the building's energy and water usage, and occupant comfort. 
+
+The LEEDLab is a year-long course that is offered concurrently with the green builidng class. The green building class really helped me to get a foundation in LEED, but the LEEDLab helped me to get real world experience. The goal in the LEEDLab this year was to recertify Bren Hall with the LEED v4 for Building Operations and Maintenance - Existing Building Rating System. Bren Hall has been certified three times before! Once when it was built and its been recertified twice (every 5 years) all awarding it with the LEED Platnium Certification. LEED Plantium Certification is the highest Certification offered! 
+
+This course has been very gratifying because I've been able to see how my part in this project will hopefully help the building to get certified. We are currently waiting to hear back if the certification will be awarded. The class was divided up into 
 
 
-### Course Work
+#### LEED Green Associate
 
-### LEED Green Associate
+### Stats For Environmental Science
+
+### Exploring Water Data
+
+### Renewable Energy Systems
+
+### Climate Change Mitigation
+
+
 
 
 

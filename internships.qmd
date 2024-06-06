@@ -1,3 +1,31 @@
 ---
-title: "internships"
+title: "Internships"
+about:
+  template: solana
+  image-shape: round
+  image-width: 10em
 ---
+
+### UCSB Zero Waste Committee ![](ZWC_logo.png){fig-align="left" width=15%}
+
+
+I worked as the Public Outreach Coordinator for the Associated Students Zero Waste Committee, during the 2023-2024 school year. Throughout this year, my responsibilities were to coordinate with other UCSB and Isla Vista community organizations, to create infographics for ZWC events, and to increase public engagement with the ZWC instagram. Through this internship, I have strengthed my skills in canva and social media marketing.
+
+[Instagram: @ucsbzerowaste](https://www.instagram.com/ucsbzerowaste?igsh=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
+
+
+### UCSB RIVRLAB   ![](rivrlab-logo.png){fig-align="left" width=30%}
+I began volunteering at the Riparian InVasion Research Laboratory during the Summer of 2023. I really enjoyed learning about biocontrol and being a part of the team there. In December, I was brought on in a paid position at the lab. Since then I have spent around 2 hours  in the lab every week.
+
+The current project we are working on is the biocontrol of Cape Ivy which is a plant that origniates in South Africa. It does really well in coastal and riparian ecosystems in Calfornia and has had a detrimental effect on native plants. In South Africa, where the plant comes from, there is a natural ecosystem feedback loop which manages the invasive plant there. The goal of our work at the RIVRLab is to reintroduce the plant-species interactions which help to limit the overgrowth of Cape Ivy. There is a fly called Parafreutreta regalis which lays its eggs in the Capy Ivy vine and help to degrade the plant.
+
+This is a presentation I made in hopes of recieving a UCSB A.S. Coastal Fund Grant which explains this research in more depth.
+
+
+Check out this website to see what other projects done at the [UCSB RIVRLAB](https://rivrlab.msi.ucsb.edu).
+
+
+### UCSB Peer Mentor ![](images.png){fig-align="left" width=15%}
+
+As a peer mentor for the UCSB CEES Mentor Project 2024 and UCSB Transfer Peer Network 2023-24 I aim to help guide fellow students. This has been a very fulfilling position over the last six months where I have mentored four students. The program is still very new, but I think it's a great idea to further connect the UCSB community.
+
