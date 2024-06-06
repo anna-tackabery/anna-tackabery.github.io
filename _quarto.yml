@@ -25,6 +25,7 @@ format:
     theme: 
       - yeti
       - styles.scss #link scss to website
+    mainfont: Open Sans
     css: styles.css
     toc: true
     page-layout: full

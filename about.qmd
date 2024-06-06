@@ -1,6 +1,7 @@
 ---
 title: "About"
 image: grad_pic.JPG
+toc: false
 about:
   template: solana
   image-shape: rectangle
